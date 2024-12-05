@@ -59,6 +59,7 @@ ol {
 .header .container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 /* Logo */
@@ -1120,7 +1121,9 @@ ol {
     align-items: flex-start;
     gap: 24px;
   }
-
+  .footer-form-input{
+    width: 264px;
+  }
   .modal {
     width: 264px;
   }
